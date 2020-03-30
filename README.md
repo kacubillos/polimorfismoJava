@@ -1,2 +1,2 @@
 # polimorfismoJava
-Laboratorio de polimorfismo en java
+Laboratorio de polimorfismo en java, Kevin Cubillos Pinzon
